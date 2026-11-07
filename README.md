@@ -27,4 +27,4 @@ No booking information is stored or sent to a server. No email/SMS provider, dat
 - Questionnaire: `public/app.js`
 - Supplied photos, converted to optimized WebP without embedded EXIF: `public/images/`
 
-Metadata and AutoRepair structured data include the supplied phone number, service categories, regions, Instagram and Google Maps links. No invented ratings, testimonials, business hours or street address. Add the final canonical URL and absolute social image URL after selecting the long-term domain.
+Metadata and AutoRepair structured data include the supplied phone number, service categories, regions, Instagram and Google Maps links. No invented ratings, testimonials, business hours or street address. Canonical, sitemap and social image URLs currently use https://onwheelsauto.vercel.app. Update these when adding the long-term domain.
